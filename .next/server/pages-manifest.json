@@ -1,10 +1,6 @@
 {
   "/_app": "pages/_app.js",
-  "/api/newMeetup": "pages/api/newMeetup.js",
-  "/new-meetup": "pages/new-meetup.html",
   "/_error": "pages/_error.js",
-  "/[meetupId]": "pages/[meetupId].js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }
